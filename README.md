@@ -1,2 +1,2 @@
-# thogro.githut.io
+# thogro.github.io
 testing 123
